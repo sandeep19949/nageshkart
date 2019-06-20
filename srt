@@ -1,5 +1,5 @@
-from ubutu 16.04
-run apt-get update
+from ubutu 16.04 trrthrat5
+run apt-get update grgrtgae
 run apt-get install -y nginx
-copy index.html var/www/html
-entrypoint dervice start nginx
+copy index.html var/www/html erere5ey
+entrypoint dervice start nginx er5r5
